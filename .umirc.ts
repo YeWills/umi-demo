@@ -1,3 +1,6 @@
+import routes from './src/route'
+
 export default {
-  npmClient: 'npm'
+  npmClient: 'npm',
+  routes: routes,
 };
